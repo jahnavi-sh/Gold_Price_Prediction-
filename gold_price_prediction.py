@@ -1,3 +1,6 @@
+#Problem statement for the project - 
+#We need to build a machine learning algorithm to predict the price of gold based on the given parameters in the dataset.
+
 #workflow 
 #1. load gold data 
 #2. data preprocessing 
@@ -31,7 +34,7 @@ gold_data.head()
 #the dataset contains 6 columns as follows - 
 #1. Date 
 #2. SPX
-#3. GLD
+#3. GLD - is the largest ETF to invest directly in physical gold
 #4. USO
 #5. SLV
 #6. EUR/USD
