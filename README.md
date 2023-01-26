@@ -94,6 +94,7 @@ Exploratory data analysis -
 Exploratory data analysis is the process of performing initial investigation on the data to discover patterns or spot anomalies. It is done to test the hypothesis and to check assumptions with the help of summary statistics and graphical representations. 
 
 ‘describe()’ method returns description of data in DataFrame. It tells us the following information for each column - 
+
 Count - number of non-empty values
 Mean - the average (mean) value  
 Std - standard deviation
