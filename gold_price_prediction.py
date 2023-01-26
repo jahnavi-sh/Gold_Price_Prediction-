@@ -1,7 +1,7 @@
 #Problem statement for the project - 
 #We need to build a machine learning algorithm to predict the price of gold based on the given parameters in the dataset.
 
-#workflow 
+#workflow for the project -
 #1. load gold data 
 #2. data preprocessing 
 #3. data exploration and analysis 
