@@ -96,12 +96,19 @@ Exploratory data analysis is the process of performing initial investigation on 
 ‘describe()’ method returns description of data in DataFrame. It tells us the following information for each column - 
 
 Count - number of non-empty values
+
 Mean - the average (mean) value  
+
 Std - standard deviation
+
 Min - minimum value
+
 25% - the 25 percentile 
+
 50% - the 50 percentile 
+
 75% - the 75 percentile
+
 Max - maximum value
 
 The info() method prints the information about dataframe. 
