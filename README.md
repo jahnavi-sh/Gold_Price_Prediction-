@@ -89,6 +89,10 @@ Scikit-Learn -
 
 It provides efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction. It has numerous machine learning, pre-processing, cross validation and visualisation algorithms. 
 
+Maplotlib -
+
+Matplotlib is a visualization library in python for 2D plots of arrays. It allows visual access to huge amounts of data in easily digestible visuals and plots like line, bar, scatter, histogram etc. 
+
 Exploratory data analysis - 
 
 Exploratory data analysis is the process of performing initial investigation on the data to discover patterns or spot anomalies. It is done to test the hypothesis and to check assumptions with the help of summary statistics and graphical representations. 
